@@ -4,14 +4,14 @@
 # Sensor-Fault-Detection
 
 ### Problem Statement
-Complaints can give us insights into problems people are experiencing in the marketplace and help us to undestand the reason and do necessary modification in exisiting financial product if required.
+Complaints can provide valuable insights into the issues that people are facing in the marketplace, allowing us to better understand the underlying reasons behind these problems. By analyzing these complaints, we can identify areas where modifications to existing financial products may be needed to address these issues and improve overall customer satisfaction.
 
 
 
 ### Solution Proposed 
-By understanding existing complaints registered against financial products we can create an ML model that can help us to identify newly registered complaints whether they are problematic or not and accordingly company can take quick action to resolve the issue, and satisfy the customer's need.
+We can leverage machine learning to address complaints about financial products by analyzing existing complaints to identify problematic issues. This analysis can help us create a model that can quickly identify newly registered complaints and determine whether they are likely to be disputed by the customer or not. By taking quick action to resolve these issues, companies can better satisfy their customers' needs and improve overall customer satisfaction.
 
-The problem is to identify registered complaint will be disputed by customer or not.
+
 ## Tech Stack Used
 1. Python 
 2. PySpark
