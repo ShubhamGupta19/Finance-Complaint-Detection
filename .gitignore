@@ -2,12 +2,29 @@
 __pycache__/
 *.py[cod]
 *$py.class
+airflow/logs/*
+airflow/airflow.db
+airflow/webserver_config.py 
+airlfow/airflow.cfg
 
+
+.vscode
 # C extensions
+.terraform.lock.hcl
+.terraform
 *.so
-
+credential.txt
+.gitconfig
+.env
+saved_models/*
+.jupyter
+.local
+.ssh
+.vscode-server
+finance_artifact/*
 # Distribution / packaging
 .Python
+.idea/
 build/
 develop-eggs/
 dist/
