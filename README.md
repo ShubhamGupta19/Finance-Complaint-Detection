@@ -1,8 +1,6 @@
 # Finance-Complaint 
 
 
-# Sensor-Fault-Detection
-
 ### Problem Statement
 Complaints can provide valuable insights into the issues that people are facing in the marketplace, allowing us to better understand the underlying reasons behind these problems. By analyzing these complaints, we can identify areas where modifications to existing financial products may be needed to address these issues and improve overall customer satisfaction.
 
