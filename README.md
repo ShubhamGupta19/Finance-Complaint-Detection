@@ -72,7 +72,7 @@ Steps to run project in local system
 export AWS_ACCESS_KEY_ID=
 export AWS_SECRET_ACCESS_KEY=
 export MONGO_DB_URL=
-export AWS_DEFAULT_REGION="ap-south-1"
+export AWS_DEFAULT_REGION="us-east"
 export IMAGE_NAME=fc:lts
 ```
 3. To start your application
@@ -95,7 +95,7 @@ AIRFLOW SETUP
 
 Set airflow directory
 ```
-export AIRFLOW_HOME="/home/avnish/census_consumer_project/census_consumer_complaint/airflow"
+export AIRFLOW_HOME="[Your airflow directroy]"
 ```
 
 To install airflow 
@@ -110,7 +110,7 @@ airflow db init
 
 To create login user for airflow
 ```
-airflow users create  -e avnish@ineuron.ai -f Avnish -l Yadav -p admin -r Admin  -u admin
+airflow users create  -e [email] -f [firstname] -l [lastname] -p [password] -r [role]  -u [username]
 ```
 To start scheduler
 ```
